@@ -1,11 +1,11 @@
 # Project information
-site_name: Claud wet en regelgeving
+site_name: Nijmegen wet en regelgeving
 # site_url: 'https://wetboek.sunstonerp.nl/'
-site_description: 'Wet en regelgeving van Claud Roleplay'
-site_author: 'Claud'
+site_description: 'Wet en regelgeving van Nijmegen Roleplay'
+site_author: 'FiveM Hub'
 
 # Copyright
-copyright: Copyright &copy; 2025 - 2026 Claud
+copyright: Copyright &copy; 2025 - 2026 FiveM Hub
 
 # Repository
 repo_url: 'https://github.com/silentsources'
@@ -28,8 +28,8 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to system preference
-  favicon: img/logoClaud.png
-  logo: img/logoClaud.webp
+  favicon: img/logoNijmegen.png
+  logo: img/logoNijmegen.webp
   custom_dir: docs/overrides
   language: nl
   features:
@@ -68,7 +68,7 @@ nav:
   - NOTAM: notam.md
   - Belastingen: belastingen.md
   - Regelement voor de rechtspraak: rechtspraak.md
-  - Streamen op Claud: streamen.md
+  - Streamen op Nijmegen: streamen.md
   - Kosten:
     - Advocatuur: kosten/advocatuur.md
     - Ambulance: kosten/ambulance.md

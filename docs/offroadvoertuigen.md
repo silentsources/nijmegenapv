@@ -10,7 +10,7 @@ De lijst hieronder geeft aan welke voertuigen vanuit de gemeente zijn toegestaan
 
 ## Overtreding
 
-Bij het rijden met een voertuig op een pad of weg, waarvoor deze niet bedoeld is valt dit onder [Artikel 10 - Deelname aan het verkeer](https://silentsources.github.io/claudapv/apv/) van de APV
+Bij het rijden met een voertuig op een pad of weg, waarvoor deze niet bedoeld is valt dit onder [Artikel 10 - Deelname aan het verkeer](https://silentsources.github.io/nijmegenapv/apv/) van de APV
 
 ## Verharde weg
 
