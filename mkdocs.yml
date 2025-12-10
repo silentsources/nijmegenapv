@@ -1,7 +1,7 @@
 # Project information
-site_name: Nijmegen wet en regelgeving
+site_name: Lemon wet en regelgeving
 # site_url: 'https://wetboek.sunstonerp.nl/'
-site_description: 'Wet en regelgeving van Nijmegen Roleplay'
+site_description: 'Wet en regelgeving van Lemon Roleplay'
 site_author: 'FiveM Hub'
 
 # Copyright
@@ -9,7 +9,7 @@ copyright: Copyright &copy; 2025 - 2026 FiveM Hub
 
 # Repository
 repo_url: 'https://fivem-hub.nl/'
-repo_name: 'FiveM Hub/nijmegenapv'
+repo_name: 'FiveM Hub/lemonapv'
 edit_uri: 'edit/pre-release/docs/'
 
 # Congiguration
@@ -28,8 +28,8 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to system preference
-  favicon: img/logoNijmegen.png
-  logo: img/logoNijmegen.webp
+  favicon: img/logoLemon.png
+  logo: img/logoLemon.webp
   custom_dir: docs/overrides
   language: nl
   features:
@@ -68,7 +68,7 @@ nav:
   - NOTAM: notam.md
   - Belastingen: belastingen.md
   - Regelement voor de rechtspraak: rechtspraak.md
-  - Streamen op Nijmegen: streamen.md
+  - Streamen op Lemon: streamen.md
   - Kosten:
     - Advocatuur: kosten/advocatuur.md
     - Ambulance: kosten/ambulance.md

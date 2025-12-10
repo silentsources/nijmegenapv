@@ -1,22 +1,22 @@
-# Algemene Plaatselijke Verordening Nijmegen
+# Algemene Plaatselijke Verordening Lemon
 
 ## Wetstechnische informatie
 
 ### Wet van 29 november 2024
 
-Wij, de Hoge Raad der Nijmegen, bij de gratie Gods, enz., enz., enz.
+Wij, de Hoge Raad der Lemon, bij de gratie Gods, enz., enz., enz.
 
 Allen die deze zullen zien of horen lezen, salut! doen te weten:
 
-Aangezien wij in overweging hebben genomen dat het noodzakelijk is een nieuwe **Algemene Plaatselijke Verordening Nijmegen (APV)** vast te stellen:
+Aangezien wij in overweging hebben genomen dat het noodzakelijk is een nieuwe **Algemene Plaatselijke Verordening Lemon (APV)** vast te stellen:
 
-**Zo is het dat wij, de staff der Nijmegen, gehoord en met gemeen overleg van de Hoge Raad, hebben goedgevonden en verstaan, gelijk wij goedvinden en verstaan bij deze, vast te stellen de navolgende bepalingen, welke zullen uitmaken de Algemene Plaatselijke Verordening Nijmegen.**
+**Zo is het dat wij, de staff der Lemon, gehoord en met gemeen overleg van de Hoge Raad, hebben goedgevonden en verstaan, gelijk wij goedvinden en verstaan bij deze, vast te stellen de navolgende bepalingen, welke zullen uitmaken de Algemene Plaatselijke Verordening Lemon.**
 
 | **Kenmerk**                | **Details**                          |
 |----------------------------|--------------------------------------|
-| Overheidsorganisatie       | Staff der Nijmegen                |
-| Officiële naam regeling    | Algemene Plaatselijke Verordening Nijmegen |
-| Citeertitel                | Algemene Plaatselijke Verordening Nijmegen |
+| Overheidsorganisatie       | Staff der Lemon                |
+| Officiële naam regeling    | Algemene Plaatselijke Verordening Lemon |
+| Citeertitel                | Algemene Plaatselijke Verordening Lemon |
 | Vastgesteld door           | De Hoge Raad                        |
 | Onderwerp                  | Openbare orde en veiligheid         |
 
@@ -24,7 +24,7 @@ Aangezien wij in overweging hebben genomen dat het noodzakelijk is een nieuwe **
 
 ### Opmerkingen met betrekking tot de verordening
 
-Het Wetboek van Strafrecht, specifiek bedoeld voor Nijmegen, wordt hierbij overschreven door deze APV.
+Het Wetboek van Strafrecht, specifiek bedoeld voor Lemon, wordt hierbij overschreven door deze APV.
 
 ---
 
@@ -32,7 +32,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Nijmegen, wordt hierbij overs
 
 ### **A-1 - Reikwijdte**
 
-1. Deze Algemene Plaatselijke Verordening, hierna te noemen **APV**, is bedoeld als aanvulling op het Nederlands Recht en heeft betrekking op het eiland, de gemeente en de stad Nijmegen.
+1. Deze Algemene Plaatselijke Verordening, hierna te noemen **APV**, is bedoeld als aanvulling op het Nederlands Recht en heeft betrekking op het eiland, de gemeente en de stad Lemon.
 2. De APV biedt een indicatief kader voor eventuele bestraffing in-game (“in RP”), maar is verder bedoeld voor het afhandelen van straffen buiten de RP om.
 
 ### **A-2 - Geldigheid**
@@ -176,12 +176,12 @@ Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeie
 
 2. Het is niet toegestaan externe discords te gebruiken voor roleplay-gerelateerde zaken zonder toestemming van de staff.
     * **Eigenaren van deze Discord-servers** worden bestraft volgens **Categorie 7**.
-    * Tijdens voicechats met andere spelers van Nijmegen geldt:
+    * Tijdens voicechats met andere spelers van Lemon geldt:
         * Streamen is niet toegestaan.
         * Je moet gedeafened en gemute zijn.
     * Het streamen van de main server in een Discord-server is verboden, tenzij expliciet goedgekeurd door de staff.
     * Bij ontsnappingen (Art. 25 APV) geldt hetzelfde videobewijsvereiste als bij lid 1.
-    * In calls zitten met je vrienden die geen Nijmegen spelen is ook verboden.
+    * In calls zitten met je vrienden die geen Lemon spelen is ook verboden.
     * Het is toegestaan om in Discord via een "ic-bewijs" kanaal, bewijs te delen in Discord. Dit bewijs moet opgenomen zijn met een bodycam (360 graden), dashcam (voor/achter) en/of telefoon in de hand (360 graden).
 
 → **Sanctie:** Categorie 1.
@@ -210,8 +210,8 @@ Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeie
 1. Bij het aanmaken van je personage moet de kleding worden aangepast. Het is niet toegestaan om met standaard startkleding de server te betreden. Het personage dient een realistische uitstraling te hebben, waarbij de outfit klopt (inclusief armen) en er geen lichaamsdelen ontbreken.
 2. De kleding die door de werkgever is verstrekt voor het uitvoeren van het beroep moet gedragen worden.
 3. Het dragen van kleding van overheidsbanen door niet-ambtenaren is verboden, tenzij hier een goedgekeurde roleplay door een stafflid aan verbonden is.
-4. Officiële Nijmegen-kleding, bedoeld voor specifieke groeperingen, mag niet door anderen worden gebruikt of als startkleding worden gekozen, tenzij er een sterke en goedgekeurde roleplay aan verbonden is.
-5. Kleding die aangekocht is via de Nijmegen website mag wel gedragen worden door iedereen. (Op eigen risico)
+4. Officiële Lemon-kleding, bedoeld voor specifieke groeperingen, mag niet door anderen worden gebruikt of als startkleding worden gekozen, tenzij er een sterke en goedgekeurde roleplay aan verbonden is.
+5. Kleding die aangekocht is via de Lemon website mag wel gedragen worden door iedereen. (Op eigen risico)
 
 → **Sanctie:** eerst een mondelinge waarschuwing. Bij het niet aanpassen volgt een straf volgens Categorie 1.
 
@@ -228,7 +228,7 @@ Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeie
 
 ### **Artikel 15 - Talen in de stad**
 
-1. De voertalen op Nijmegen zijn **Nederlands** en **Engels**.
+1. De voertalen op Lemon zijn **Nederlands** en **Engels**.
 2. Andere talen mogen niet provocerend of beledigend worden gebruikt tijdens roleplay.
 3. Tijdens gesprekken met staff of overheidsfunctionarissen moet Nederlands worden gesproken. Als een persoon geen Nederlands spreekt, moet er iemand aanwezig zijn die namens hem in het Nederlands communiceert.
 
@@ -288,7 +288,7 @@ Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeie
 
 ### **Artikel 20 - Belediging**
 
-1. Het gebruik van beledigingen met betrekking tot relevante/hedendaagse ziektes, racistische of ongepaste opmerkingen is verboden op alle door Nijmegen erkende platformen.
+1. Het gebruik van beledigingen met betrekking tot relevante/hedendaagse ziektes, racistische of ongepaste opmerkingen is verboden op alle door Lemon erkende platformen.
 
 → **Sanctie:**
     **Eerste overtreding:** Twee weken ban.
@@ -449,7 +449,7 @@ Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeie
 1. Het misleiden of bedriegen met betrekking tot loodsen is verboden.
 2. De verhuur van sleutels voor loodsen is toegestaan.
 3. Het verhandelen van aandelen in loodsen is toegestaan.
-4. Alle overeenkomsten met betrekking tot loodsen moeten schriftelijk worden vastgelegd en gedocumenteerd in de stad Nijmegen met het commando /docu, en dienen te worden ondertekend door alle betrokken partijen.
+4. Alle overeenkomsten met betrekking tot loodsen moeten schriftelijk worden vastgelegd en gedocumenteerd in de stad Lemon met het commando /docu, en dienen te worden ondertekend door alle betrokken partijen.
 5. In geval van onduidelijkheid over de bepalingen van lid 2 of 3, zal het oordeel van een staflid leidend zijn, en dit staflid zal beslissen over de verdeling van de loods. De partij die beweert benadeeld te zijn, dient bewijsmateriaal te overleggen en draagt de verantwoordelijkheid voor de bewijslast.
 
 → **Sanctie:** categorie 3. Indien de overtreding over bedragen boven de 2 miljoen gaat, zal er gestraft worden volgens categorie 5.
@@ -581,4 +581,4 @@ Het doel van deze samenwerking is [korte omschrijving van de samenwerking].
 ```
 
 ---
-APV opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “Nijmegen”, opgetekend door FiveM Hub.
+APV opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “Lemon”, opgetekend door FiveM Hub.
